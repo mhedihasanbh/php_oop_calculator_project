@@ -1,0 +1,14 @@
+{
+  "name": "last/last",
+  "type": "project",
+  "description": "project description",
+  "keywords": [],
+  "license": "MIT",
+  "require": {},
+  "require-dev": {},
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/"
+    }
+  }
+}
